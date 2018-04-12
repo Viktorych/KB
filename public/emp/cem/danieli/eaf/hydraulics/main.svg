@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200mm"
+   height="698mm"
+   viewBox="0 0 1200 698"
+   version="1.1"
+   id="svg6850"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="main.svg">
+  <defs
+     id="defs6844">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5584">
+      <stop
+         style="stop-color:#8fde92;stop-opacity:1;"
+         offset="0"
+         id="stop5580" />
+      <stop
+         style="stop-color:#8fde92;stop-opacity:0;"
+         offset="1"
+         id="stop5582" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5063"
+       x="-0.020756572"
+       width="1.0415131"
+       y="-0.1355373"
+       height="1.2710747">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0345072"
+         id="feGaussianBlur5065" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5107"
+       x="-0.013837715"
+       width="1.0276754"
+       y="-0.090358198"
+       height="1.1807164">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.68967146"
+         id="feGaussianBlur5109" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5509"
+       x="-0.00074935076"
+       width="1.0014987"
+       y="-0.0030104334"
+       height="1.0060209">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23381431"
+         id="feGaussianBlur5511" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5584"
+       id="radialGradient5586"
+       cx="601.08893"
+       cy="-50.946899"
+       fx="601.08893"
+       fy="-50.946899"
+       r="598.56512"
+       gradientTransform="matrix(1,0,0,0.58078442,0,-21.357734)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1050.4819"
+     inkscape:cy="2253.758"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="63.610147,484.2924"
+       orientation="1,0"
+       id="guide7475"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="211.67747,717.35142"
+       orientation="1,0"
+       id="guide7500"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="652.6722,430.30395"
+       orientation="0,1"
+       id="guide7502"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="283.3057,287.58202"
+       orientation="0,1"
+       id="guide7504"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="292.39287,158.22356"
+       orientation="0,1"
+       id="guide7506"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="491.93602,423.9003"
+       orientation="1,0"
+       id="guide7544"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="578.37127,447.4092"
+       orientation="1,0"
+       id="guide7546"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="631.29063,215.41924"
+       orientation="0,1"
+       id="guide5513"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="534.53905,199.91761"
+       orientation="0,1"
+       id="guide5515"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="527.0555,207.40116"
+       orientation="0,1"
+       id="guide5517"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="backgraund">
+    <rect
+       transform="translate(0,401.00001)"
+       style="opacity:1;fill:#dfe9e7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect5556"
+       width="1196.1302"
+       height="694.2746"
+       x="3.0238094"
+       y="-398.0842"
+       rx="32.883976"
+       ry="28.726177" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       transform="translate(0,401.00001)"
+       style="opacity:1;fill:#0fed1d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect7395"
+       width="205.61905"
+       height="90.714287"
+       x="63.610146"
+       y="-180.32513"
+       ry="45.047951"
+       rx="45.047951" />
+    <rect
+       transform="translate(0,401.00001)"
+       style="opacity:1;fill:#0fed1d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect7395-7"
+       width="205.61905"
+       height="90.714287"
+       x="63.610146"
+       y="-38.676262"
+       ry="45.357143"
+       rx="45.357143" />
+    <rect
+       transform="translate(0,401.00001)"
+       style="opacity:1;fill:#ed120f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect7395-7-4"
+       width="205.61905"
+       height="90.714287"
+       x="63.610146"
+       y="97.631195"
+       ry="45.357143"
+       rx="45.357143" />
+    <rect
+       transform="translate(0,401.00001)"
+       ry="23.637463"
+       y="-132.68402"
+       x="365.88095"
+       height="278.94641"
+       width="349.25586"
+       id="rect7556"
+       style="opacity:1;fill:#a7fa81;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00543678;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       rx="23.637463" />
+    <rect
+       transform="translate(0,401.00001)"
+       style="opacity:1;fill:#0fed1d;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.69999981;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect7395-5"
+       width="205.61908"
+       height="90.714294"
+       x="429.68793"
+       y="-285.57077"
+       ry="34.210499"
+       rx="34.210499" />
+    <g
+       transform="translate(0,401.00001)"
+       id="g5547">
+      <rect
+         rx="8.5741806"
+         ry="8.5741806"
+         y="-285.57077"
+         x="638.48206"
+         height="90.714287"
+         width="83.987099"
+         id="rect4549-2"
+         style="opacity:1;fill:#81edfa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53699994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         transform="translate(0,1.2916667e-5)" />
+      <text
+         id="text4553-9"
+         y="-257.42624"
+         x="682.31171"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4610"
+           x="682.31171"
+           y="-257.42624">Температура</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4612"
+           x="682.31171"
+           y="-246.84291">охлаждающей</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4614"
+           x="682.31171"
+           y="-236.25957">жидкости</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4616"
+           x="682.31171"
+           y="-225.67624">45С</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,401)">
+    <rect
+       style="opacity:1;fill:#a7fa81;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82452446;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4549-4"
+       width="119.61596"
+       height="43.059082"
+       x="519.43091"
+       y="-386.89938"
+       ry="27.923859"
+       rx="27.923859" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="579.65991"
+       y="-375.37582"
+       id="text4553-2"><tspan
+         sodipodi:role="line"
+         id="tspan5449"
+         x="579.65991"
+         y="-375.37582">Давление масла (bar):</tspan></text>
+    <rect
+       style="opacity:1;fill:#4ade92;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.98699975;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5455"
+       width="75.259834"
+       height="23.579943"
+       x="541.07111"
+       y="-369.98154"
+       rx="11.717258"
+       ry="7.559515" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="577.16962"
+       y="-352.32535"
+       id="oil"><tspan
+         sodipodi:role="line"
+         id="tspan5457"
+         x="579.51782"
+         y="-352.32535"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">130 </tspan></text>
+    <g
+       id="g4582"
+       style="stroke:#2c30d7;stroke-width:7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4573"
+         d="m 269.31041,146.14698 h 34.74503 l 2.26785,-135.973058 h -36.88318 36.88318 l -0.56696,-146.150552 h -37.95228 37.95228 l -1.70089,282.12361 61.82551,0.11541 12.66219,-9.80392"
+         style="fill:none;fill-opacity:1;stroke:#2c30d7;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4575"
+         d="m 594.17854,-133.30394 c 0,-63.07561 0,-63.07561 0,-63.07561"
+         style="fill:none;stroke:#2c30d7;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4577"
+         d="m 476.24999,-133.30394 c 0,-61.47199 0,-61.47199 0,-61.47199"
+         style="fill:none;stroke:#2c30d7;stroke-width:7;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.63991"
+       y="-150.08716"
+       id="text7399"><tspan
+         sodipodi:role="line"
+         id="tspan7397"
+         x="162.63991"
+         y="-150.08716"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332">Насос №1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.16431"
+       y="-128.93616"
+       id="text7399-6"
+       inkscape:transform-center-x="-3.7797619"
+       inkscape:transform-center-y="-26.458306"><tspan
+         sodipodi:role="line"
+         id="tspan7419"
+         x="162.16431"
+         y="-128.93616">В работе</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.63992"
+       y="-8.5893326"
+       id="text7399-7"><tspan
+         sodipodi:role="line"
+         id="tspan3734"
+         x="162.63992"
+         y="-8.5893326">Насос №2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.28094"
+       y="13.090728"
+       id="text7399-6-0"
+       inkscape:transform-center-x="-3.7797619"
+       inkscape:transform-center-y="-26.458306"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan7419-8"
+         x="164.28094"
+         y="13.090728">В работе</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.63994"
+       y="124.01395"
+       id="text7399-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan3742"
+         x="162.63994"
+         y="124.01395">Насос №3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.28096"
+       y="148.86873"
+       id="text7399-6-0-8"
+       inkscape:transform-center-x="-3.7797619"
+       inkscape:transform-center-y="-26.458306"><tspan
+         y="148.86873"
+         x="164.28096"
+         id="tspan7498"
+         sodipodi:role="line">Oтключен</tspan></text>
+    <rect
+       style="opacity:1;fill:#9581fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4560"
+       width="349.25586"
+       height="96.746628"
+       x="365.88095"
+       y="49.515766"
+       ry="1.714836"
+       rx="1.714836" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="540.51074"
+       y="-267.73029"
+       id="text7399-0"><tspan
+         y="-267.73029"
+         x="540.51074"
+         id="tspan7540"
+         sodipodi:role="line">Рециркуляционный насос</tspan><tspan
+         y="-253.61917"
+         x="540.51074"
+         id="tspan7542"
+         sodipodi:role="line">охлаждения масла</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="532.4754"
+       y="-225.86736"
+       id="text7399-6-5"
+       inkscape:transform-center-x="-3.7797619"
+       inkscape:transform-center-y="-26.458306"><tspan
+         sodipodi:role="line"
+         id="tspan7419-0"
+         x="532.4754"
+         y="-225.86736">В работе</tspan></text>
+    <g
+       id="g5441"
+       transform="translate(106.58929,-142.11905)">
+      <rect
+         ry="1.7314224"
+         y="26.831211"
+         x="372.32004"
+         height="18.318333"
+         width="119.61596"
+         id="rect4549"
+         style="opacity:1;fill:#a8e38d;fill-opacity:1;fill-rule:nonzero;stroke:#e42949;stroke-width:3.2249999;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:1.79999995;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter5063)"
+         rx="1.7314224" />
+      <text
+         id="text4553"
+         y="37.567112"
+         x="432.19272"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="37.567112"
+           x="432.19272"
+           id="tspan4551"
+           sodipodi:role="line">Температура масла : 45С</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4633"
+       d="m 305.75633,-135.97663 v -188.29306 l 748.85407,1.88988"
+       style="fill:none;stroke:#3135db;stroke-width:6.99287224;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter5509)"
+       sodipodi:nodetypes="ccc"
+       transform="matrix(1,0,0,1.0020397,0,0.27734586)" />
+    <path
+       style="fill:#3135db;fill-opacity:1;stroke:#3135db;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 579.44032,-323.0653 c 0,-20.31249 0,-20.31249 0,-20.31249"
+       id="path4669"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#a7fa81;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82452446;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter5107)"
+       id="rect4549-41"
+       width="119.61596"
+       height="18.318333"
+       x="477.48914"
+       y="58.499928"
+       ry="1.7314217"
+       rx="1.7314217" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="535.75818"
+       y="68.503525"
+       id="text4553-8"><tspan
+         sodipodi:role="line"
+         id="tspan5530">Подогрев : Отключен</tspan></text>
+    <rect
+       style="opacity:1;fill:#f00b09;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82452446;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4549-41-4"
+       width="119.61596"
+       height="18.318333"
+       x="583.46295"
+       y="120.45811"
+       ry="1.7314217"
+       rx="1.7314217" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#c6d826;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="643.87018"
+       y="131.26601"
+       id="text4553-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan4727"
+         x="643.87018"
+         y="131.26601">Низкий уровень масла</tspan></text>
+    <rect
+       style="opacity:1;fill:#81fa9a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4562"
+       width="109.29345"
+       height="19.654762"
+       x="484.69611"
+       y="-76.416847"
+       ry="1.714836"
+       rx="1.7148358" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="550.44446"
+       y="-63.711079"
+       id="text4566"><tspan
+         sodipodi:role="line"
+         id="tspan4564"
+         x="550.44446"
+         y="-63.711079"
+         style="stroke-width:0.26458332">Уровень масла: 60%</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.98699987;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5451"
+       width="61.232143"
+       height="23.434523"
+       x="436.94046"
+       y="-369.75"
+       ry="11.717261"
+       rx="11.717261" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.98699987;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5453"
+       width="13.607127"
+       height="7.5595236"
+       x="423.33331"
+       y="-369.75"
+       rx="11.717258"
+       ry="7.5595236" />
+    <rect
+       style="opacity:1;fill:#dfe9e7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4596"
+       width="153.94724"
+       height="33.675961"
+       x="26.192413"
+       y="-378.65738"
+       rx="32.884003"
+       ry="28.726076" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="63.610146"
+       y="-360.48303"
+       id="text4600"><tspan
+         sodipodi:role="line"
+         id="tspan4598"
+         x="64.784233"
+         y="-360.48303"
+         style="stroke-width:0.26458332">Связь с PLC </tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+extends layout
+
+block content
+    main.container-flui(role='main')
+        .row
+            .col-md-12.blog-main
+                h3.pb-3.mb-4.font-italic.border-bottom
+                    | Карта расположения оборудования
+
+
+        .row
+            #jstree.col-sm-3
+            .col-sm-7
+                | <svg id="map" version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048" width= 1200 height= 800 preserveAspectRatio="xMidYMid meet" (click)="goHome();">
+                | <g id="layer1">
+                | <image width="2048" height="2048" preserveAspectRatio="none" xlink:href="/map/map_rpm_2048.jpg"/>
+                | </g>
+                | <g
+                |      inkscape:groupmode="layer"
+                |      id="layer2"
+                |      inkscape:label="Layer 2">
+                |     <path
+                |        style="fill:#ff0000;fill-opacity:0.47863249;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                |        d="m 757.08299,1148.2091 60.37638,-61.4741 165.0287,159.1741 v 0 l 7.68558,19.8667 -15.91267,14.6189 -43.73315,-44.3654 -17.92995,19.3936 -16.83221,-15.7344 -19.39362,22.321 z"
+                |        id="cem"
+                |            data-info="<div>Металлургия</div><div>ЦЕМ</div>"
+                |        inkscape:connector-curvature="0"
+                |        sodipodi:nodetypes="ccccccccccc" />
+                |     <path
+                |        style="fill:#ff0000;fill-opacity:0.47863249;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                |        d="m 666.70142,1087.4669 20.85728,20.4914 57.08311,-56.3513 -20.87028,-21.2102 z"
+                |        id="abc_cem"
+                |            data-info="<div>Металлургия</div><div>АБК ЦЕМ</div>"
+                |        inkscape:connector-curvature="0"
+                |        sodipodi:nodetypes="ccccc" />
+                |   </g>
+                | </svg>
+
+
+
+
+
+
+    script(src="/js/main_storage/storage.js")

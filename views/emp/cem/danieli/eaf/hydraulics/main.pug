@@ -1,0 +1,17 @@
+extends layout
+
+block content
+
+    main.container(role='main')
+        .row
+            .col-md-12
+                //.blog-main
+                //h5.pb-0.mb-0.font-italic
+                h3.font-italic.text-center
+                    //border-bottom
+                    |Гидравлическая система комплекса DANIELI
+                #container
+                svg(id="hydraulics", height=700, width=1200)
+
+            script(src="/js/emp/cem/danieli/eaf/hydraulics/hydraulics.js")
+

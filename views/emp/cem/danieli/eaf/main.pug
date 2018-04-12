@@ -1,0 +1,15 @@
+extends layout
+
+block content
+
+    main.container(role='main')
+        .row
+            .col-md-12.blog-main
+                h3.pb-3.mb-4.font-italic.border-bottom
+                    | Структура оборудования по ДСП-6 (EAF)
+                #container
+                svg(id="main_eaf"  height=700, width=1200)
+                    //|<image  src="/emp/cem/danieli/eaf/main.svg" width="90" height="90"/>
+
+            script(src="/js/emp/cem/danieli/eaf/eaf_structure.js")
+

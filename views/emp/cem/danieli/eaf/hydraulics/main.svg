@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5531"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="main.svg">
+  <defs
+     id="defs5525" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="180.29042"
+     inkscape:cy="592.54492"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5528">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       id="eaf">
+      <path
+         onmouseout="style.stroke = &quot;#0000ffff&quot;"
+         onmouseover="style.stroke='#FF0000ff'"
+         inkscape:connector-curvature="0"
+         id="path4558"
+         style="fill:#00ff00;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.35027,190.68341 a 23,23 0 1 0 -45.999996,0 23,23 0 1 0 45.999996,0 z" />
+      <text
+         id="text4594"
+         y="190.1711"
+         x="98.164612"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="190.1711"
+           x="98.164612"
+           id="tspan4596"
+           sodipodi:role="line">ДСП-6</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="200.75443"
+           x="98.164612"
+           id="tspan4598"
+           sodipodi:role="line">EAF</tspan></text>
+    </g>
+    <g
+       id="hydraulics">
+      <rect
+         ry="1.1955837"
+         y="130.36688"
+         x="57.060532"
+         height="24.851789"
+         width="81.685097"
+         id="rect4608-7"
+         style="opacity:0.869;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1.1482085;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         onmouseout="style.stroke = &quot;#0000ffff&quot;"
+         onmouseover="style.stroke='#FF0000ff'" />
+      <text
+         id="text4594-2"
+         y="140.84625"
+         x="97.631973"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           id="tspan4687"
+           sodipodi:role="line"
+           x="97.631973"
+           y="140.84625">Гидравлическая</tspan><tspan
+           style="stroke-width:0.26458332"
+           id="tspan4689"
+           sodipodi:role="line"
+           x="97.631973"
+           y="151.42958">система</tspan></text>
+    </g>
+    <g
+       id="g6197">
+      <rect
+         ry="1.2027138"
+         y="178.00893"
+         x="128.42717"
+         height="24.999998"
+         width="61.591244"
+         id="rect4608"
+         style="opacity:0.43500001;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text4594-2-4-0"
+         y="186.96217"
+         x="161.16257"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.594;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="186.96217"
+           x="161.16257"
+           id="tspan4758"
+           sodipodi:role="line">Воденое</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="197.5455"
+           x="161.16257"
+           id="tspan4760"
+           sodipodi:role="line">охлаждение</tspan></text>
+    </g>
+    <g
+       id="g6216">
+      <rect
+         ry="1.2027138"
+         y="177.00317"
+         x="7.0396271"
+         height="24.999998"
+         width="61.591244"
+         id="rect4608-7-3"
+         style="opacity:0.553;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text4594-2-4-0-3"
+         y="187.67995"
+         x="38.83596"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.45700001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="187.67995"
+           x="38.83596"
+           id="tspan4852"
+           sodipodi:role="line">Положение</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="198.26328"
+           x="38.83596"
+           id="tspan4854"
+           sodipodi:role="line">печи</tspan></text>
+    </g>
+    <g
+       id="g6203">
+      <rect
+         ry="1.8468943"
+         y="225.0712"
+         x="103.45628"
+         height="38.390141"
+         width="89.258209"
+         id="rect4608-7-2-2"
+         style="opacity:0.575;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1.49177897;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text4594-2-4-2"
+         y="241.1698"
+         x="148.33961"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.58800001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="241.1698"
+           x="148.33961"
+           id="tspan4814"
+           sodipodi:role="line">Управление</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="251.75313"
+           x="148.33961"
+           id="tspan4816"
+           sodipodi:role="line">трансформатором</tspan></text>
+    </g>
+    <g
+       id="g6210">
+      <rect
+         ry="1.8468938"
+         y="225.0712"
+         x="10.346003"
+         height="38.390129"
+         width="82.436378"
+         id="rect4608-7-2"
+         style="opacity:0.53399999;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1.43363881;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <text
+         id="text4594-2-4"
+         y="235.82233"
+         x="51.741959"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.58499995;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="235.82233"
+           x="51.741959"
+           id="tspan4728"
+           sodipodi:role="line">Уравление</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="246.40565"
+           x="51.741959"
+           id="tspan4730"
+           sodipodi:role="line">электродами</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="256.98898"
+           x="51.741959"
+           id="tspan4732"
+           sodipodi:role="line">HiReg</tspan></text>
+    </g>
+    <g
+       id="g6231">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4834"
+         d="m 80.775158,205.79072 c -29.860512,19.28047 -29.860512,19.28047 -29.860512,19.28047 v 0"
+         style="opacity:0.869;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4836"
+         d="m 115.68848,205.67096 33.69182,19.40023"
+         style="opacity:0.869;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4840"
+         d="m 68.621189,191.56708 c 6.601394,0 6.724785,0 6.724785,0"
+         style="opacity:0.869;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4844"
+         d="m 128.7022,191.56708 c -7.32902,0 -7.32902,0 -7.32902,0"
+         style="opacity:0.869;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4886"
+         d="M 98.164607,167.53965 V 155.32399"
+         style="opacity:0.869;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+doctype html
+html
+    head
+        title= title
+
+        link(rel='stylesheet', href='/css/bootstrap/bootstrap.min.css')
+        link(rel='stylesheet', href='/css/style_main.css')
+        link(rel='stylesheet', href='/css/tree.themes/default/style.css')
+        link(rel='stylesheet', href='/css/jquery.svg.css')
+        script(src='/js/jquery.min.js')
+        script(src="/js/jquery.svg.js")
+        script(src="/js/jquery.svg.pan.zoom.js")
+        script(src="/js/go.js")
+        script(src="/js/main_structure/main_structure_data.js")
+
+        script(src="/js/jstree.js")
+        script(src="/js/emp/cem/danieli/eaf/eaf_structure_data.js")
+
+
+
+    body
+        nav.navbar.navbar-expand-md.navbar-dark.bg-primary
+            a.navbar-brand.abs(href='/')
+                img(src="/favicon.ico")
+                | &nbsp;ЭМП->ЦЕМ->ДСП-6 (EAF)
+            button.navbar-toggler(type='button', data-toggle='collapse', data-target='#collapsingNavbar')
+                span.navbar-toggler-icon
+            #collapsingNavbar.navbar-collapse.collapse
+                ul.navbar-nav
+                    li.nav-item.active
+                        a.nav-link(href='/', data-toggle='collapse') Структура
+                    li.nav-item.active
+                        a.nav-link(href='/graph', data-toggle='collapse') Графики
+                    li.nav-item.active
+                        a.nav-link(href='/doc', data-toggle='collapse') Документация
+
+
+        block content
+        footer.blog-footer
+            p База знаний по оборудованию ПАО "Русполимет"   &copy
+                a(href='') Руденко О.В.
+            p
+                a(href='#') На верх.
